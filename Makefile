@@ -1,4 +1,4 @@
-REPOSITORY := vorteil
+REPOSITORY := jkizo
 
 # dependencies
 .PHONY: dependencies
