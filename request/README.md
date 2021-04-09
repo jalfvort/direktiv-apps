@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/request",
+  "image": "jkizo/request",
   "desc": "Perform a basic HTTP/S request."
 }
 ---

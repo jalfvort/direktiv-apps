@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/solve",
+  "image": "jkizo/solve",
   "desc": "Solves math expressions"
 }
 ---

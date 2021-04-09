@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/aws-ec2-stop",
+  "image": "jkizo/aws-ec2-stop",
   "desc": "Stops a amazon ec2 instance."
 }
 ---

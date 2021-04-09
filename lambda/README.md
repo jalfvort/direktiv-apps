@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/lambda",
+  "image": "jkizo/lambda",
   "desc": "Executes a cloud function on aws using their golang SDK."
 }
 ---

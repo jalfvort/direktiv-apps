@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/googleinvoke",
+  "image": "jkizo/googleinvoke",
   "desc": "Executes a cloud function on google using a client authenticated via a service account key."
 }
 ---

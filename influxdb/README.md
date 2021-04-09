@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/influxdb",
+  "image": "jkizo/influxdb",
   "desc": "A container that provides the opportunities to write or query data on an InfluxDB instance."
 }
 ---

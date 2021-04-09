@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/amazon-upload",
+  "image": "jkizo/amazon-upload",
   "desc": "Uploads a base64 encoded string to a blob on Amazon."
 }
 ---

@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/google-pubsub",
+  "image": "jkizo/google-pubsub",
   "desc": "Writes a message to Google's Pubsub service."
 }
 ---

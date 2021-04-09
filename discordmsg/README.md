@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/discordmsg",
+  "image": "jkizo/discordmsg",
   "desc": "Writes a discord message to a webhook URL."
 }
 ---

@@ -45,7 +45,7 @@ func main() {
 				fmt.Printf(`Please provide a frontmatter like the following at the top of the %s/README.md for the container.
 ---
 {
-	"image": "vorteil/test"
+	"image": "jkizo/test"
 	"desc": "This container does stuff"
 }
 ---

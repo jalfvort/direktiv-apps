@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/google-sentiment-check",
+  "image": "jkizo/google-sentiment-check",
   "desc": "Reads a string and tells you the sentiment of the written text."
 }
 ---

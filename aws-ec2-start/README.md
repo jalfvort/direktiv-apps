@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/aws-ec2-start",
+  "image": "jkizo/aws-ec2-start",
   "desc": "Start a amazon ec2 instance."
 }
 ---

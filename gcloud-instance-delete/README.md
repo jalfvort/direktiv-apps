@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/gcloud-instance-delete",
+  "image": "jkizo/gcloud-instance-delete",
   "desc": "Delete a compute engine instance on google cloud."
 }
 ---

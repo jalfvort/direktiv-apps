@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/greeting",
+  "image": "jkizo/greeting",
   "desc": "Outputs a greeting"
 }
 ---

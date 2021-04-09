@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/smtp",
+  "image": "jkizo/smtp",
   "desc": "A simple smtp client to send an email"
 }
 ---

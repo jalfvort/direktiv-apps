@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/imagerecognition",
+  "image": "jkizo/imagerecognition",
   "desc": "Checks an image to see if it is safe for work and responds with content is likely to be racy, adult or violence themed."
 }
 ---

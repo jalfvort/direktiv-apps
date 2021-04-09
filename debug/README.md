@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/debug",
+  "image": "jkizo/debug",
   "desc": "Prints all the information that direktiv sends to the container"
 }
 ---

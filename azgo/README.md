@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/azgo",
+  "image": "jkizo/azgo",
   "desc": "Executes any azure cli command using a golang wrapper to provide the authentication before executing."
 }
 ---

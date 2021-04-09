@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/redis",
+  "image": "jkizo/redis",
   "desc": "Sets and gets on a redis memory store."
 }
 ---

@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/amazon-sns",
+  "image": "jkizo/amazon-sns",
   "desc": "Writes a message to Amazon's Simple Notification Service"
 }
 ---

@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/aws-ec2-delete",
+  "image": "jkizo/aws-ec2-delete",
   "desc": "Delete a amazon ec2 instance."
 }
 ---

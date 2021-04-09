@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/slackmsg",
+  "image": "jkizo/slackmsg",
   "desc": "Writes a message to a slack webhook url"
 }
 ---

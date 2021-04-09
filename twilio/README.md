@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/twilio",
+  "image": "jkizo/twilio",
   "desc": "Sends an email or SMS message using Twilio."
 }
 ---

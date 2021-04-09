@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/store",
+  "image": "jkizo/store",
   "desc": "Add a row to a 'Google Sheets' spreadsheet."
 }
 ---

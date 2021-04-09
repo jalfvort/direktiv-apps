@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/azure-upload",
+  "image": "jkizo/azure-upload",
   "desc": "Uploads a base64 encoded string to a blob on Azure."
 }
 ---

@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/gcloud-instance-stop",
+  "image": "jkizo/gcloud-instance-stop",
   "desc": "Stop a compute engine instance on google cloud."
 }
 ---

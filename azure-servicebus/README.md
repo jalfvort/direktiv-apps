@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/azure-servicebus",
+  "image": "jkizo/azure-servicebus",
   "desc": "Writes a message to Azure's Servicebus"
 }
 ---

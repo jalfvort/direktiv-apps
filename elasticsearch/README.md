@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/elasticsearch",
+  "image": "jkizo/elasticsearch",
   "desc": "Writes a new JSON document to an index or queries an index in its entirety."
 }
 ---

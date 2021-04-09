@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/aws-ec2-create",
+  "image": "jkizo/aws-ec2-create",
   "desc": "Creates an amazon ec2 instance on aws."
 }
 ---

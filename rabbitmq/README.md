@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/rabbitmq",
+  "image": "jkizo/rabbitmq",
   "desc": "Writes a message to the RabbitMQ Service"
 }
 ---

@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/awslog",
+  "image": "jkizo/awslog",
   "desc": "Writes a log line to aws cloudwatch logs with provided log stream and group."
 }
 ---

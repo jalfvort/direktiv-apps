@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/googlemsg",
+  "image": "jkizo/googlemsg",
   "desc": "Writes a google message to a webhook URL."
 }
 ---

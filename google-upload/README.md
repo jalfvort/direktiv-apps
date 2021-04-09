@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/google-upload",
+  "image": "jkizo/google-upload",
   "desc": "Uploads a base64 encoded string to a bucket on Google."
 }
 ---

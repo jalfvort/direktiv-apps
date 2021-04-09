@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/kafka",
+  "image": "jkizo/kafka",
   "desc": "Writes a message to a Kafka service"
 }
 ---

@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/gcloud-instance-create",
+  "image": "jkizo/gcloud-instance-create",
   "desc": "Create a compute engine instance on google cloud."
 }
 ---

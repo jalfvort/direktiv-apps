@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/simplepostgresclient",
+  "image": "jkizo/simplepostgresclient",
   "desc": "Perform simple interactions on a PostgreSQL database. "
 }
 ---

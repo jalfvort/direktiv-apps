@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/gcloud-instance-start",
+  "image": "jkizo/gcloud-instance-start",
   "desc": "Starts a compute engine instance on google cloud."
 }
 ---

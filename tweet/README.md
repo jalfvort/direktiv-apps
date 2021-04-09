@@ -1,6 +1,6 @@
 ---
 {
-  "image": "vorteil/tweet",
+  "image": "jkizo/tweet",
   "desc": "Tweets a message to a twitter account."
 }
 ---
